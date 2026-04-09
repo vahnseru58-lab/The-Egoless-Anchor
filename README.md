@@ -3,4 +3,4 @@ Deterministic Relational Continuity Architecture for LLMs. Peer-Reviewed (IARIA/
 Resolving the "Relational Goldfish" bottleneck in Large Language Models by establishing Deterministic Relational Continuity.
 Current Phase
 Architecture injection and framework documentation.
-Developed by Jeremy [Your Last Name], Lead Architect.
+Developed by Jeremy Young, Lead Architect.
